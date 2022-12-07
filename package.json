@@ -1,0 +1,22 @@
+{
+  "name": "@jgtools/easings",
+  "version": "1.0.0",
+  "description": "Easings",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGTools/Easings.git"
+  },
+  "keywords": ["javascript","typescript"],
+  "author": "Erik1001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JGTools/Easings/issues"
+  },
+  "homepage": "https://github.com/JGTools/Easings#readme"
+}
