@@ -26,9 +26,9 @@ import { outElastic } from "@jgtools/easings";
 ```html
 <script type="module">
     // import all functions using a namespace
-    import * as Easings from "https://cdn.jsdelivr.net/npm/@jgtools/easings@2.0.3/dist/index.min.js";
+    import * as Easings from "https://cdn.jsdelivr.net/npm/@jgtools/easings@2.0.4/dist/index.min.js";
     // or import functions individually
-    import {outElastic} from "https://cdn.jsdelivr.net/npm/@jgtools/easings@2.0.3/dist/index.min.js";
+    import { outElastic } from "https://cdn.jsdelivr.net/npm/@jgtools/easings@2.0.4/dist/index.min.js";
     // ...
 </script>
 ```
