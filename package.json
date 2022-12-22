@@ -1,8 +1,8 @@
 {
   "name": "@jgtools/easings",
-  "version": "2.0.1",
-  "description": "Easings",
-  "type":"module",
+  "version": "2.0.2",
+  "description": "Collection of easing functions",
+  "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -12,11 +12,17 @@
     "type": "git",
     "url": "git+https://github.com/JGTools/Easings.git"
   },
-  "keywords": ["javascript","typescript"],
+  "keywords": [
+    "javascript",
+    "typescript"
+  ],
   "author": "Erik1001",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/JGTools/Easings/issues"
   },
-  "homepage": "https://github.com/JGTools/Easings#readme"
+  "homepage": "https://github.com/JGTools/Easings#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
 }
